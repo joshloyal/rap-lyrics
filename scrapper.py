@@ -68,10 +68,14 @@ class TreeNode(dict):
             ret += child.__repr__(level+1)
         return ret
 
-    def to_json(self, filename='out.json'):
+    def to_json(self, filename=None):
         json_str = json.dumps(self, indent=2)
-        with open(filename, 'w') as f:
-            f.write(json_str)
+
+        if filename:
+            with open(filename, 'w') as f:
+                f.write(json_str)
+
+        return json_str
 
 def create_artist_tree(artist, songs):
     # loop through songs once to build the first layer
@@ -84,11 +88,12 @@ def create_artist_tree(artist, songs):
     for song in songs:
         for node in tree.children:
             if song.album == node.name:
-                node.add_child({'name' : song.title, 'lyrics' : song.lyrics})
+                node.add_child({'name' : song.title}), 'lyrics' : song.lyrics})
     
     return tree
 
 if __name__ == '__main__': 
+    #songs = pickle.load(open('drake.pkl', 'r'))
     songs = scrap_rapgenius('Drake')
     pickle.dump(songs, open('drake.pkl', 'wb'))
     tree = create_artist_tree('Drake', songs) 
