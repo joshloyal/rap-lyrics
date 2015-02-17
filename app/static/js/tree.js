@@ -20,6 +20,8 @@ var svg = d3.select("#tree-diagram").append("svg")
   .append("g")
     .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
+var lyrics = d3.select("#lyrics");
+
 d3.json("static/json/drake.json", function(error, artist) {
   root = artist;
   root.x0 = height / 2;
@@ -38,9 +40,32 @@ d3.json("static/json/drake.json", function(error, artist) {
   root.children.forEach(collapse);
 });
 
-//d3.select(self.frameElement).style("height", "800px");
-
 function update(source) {
+    
+  // enter the song lyrics
+  if (source.lyrics) {
+   
+    // update
+    var title = d3.select("#song-title")
+                .data([source.name])
+                .text(String);
+    
+    // exit
+    title.exit().remove();
+    
+    // update
+    var p = d3.select("#lyrics").selectAll("p")
+            .data([source.lyrics])
+             .text(String);
+
+    // Enter…
+    p.enter().append("p")
+             .attr("class", "lyrics")
+             .text(String);
+             
+    // Exit…
+    p.exit().remove();
+  }
 
   // Compute the new tree layout.
   var nodes = tree.nodes(root).reverse(),
@@ -136,5 +161,6 @@ function click(d) {
     d.children = d._children;
     d._children = null;
   }
+
   update(d);
 }
