@@ -1,6 +1,8 @@
 var margin = {top: 20, right: 120, bottom: 20, left: 120},
-    width = 960 - margin.right - margin.left,
-    height = 800 - margin.top - margin.bottom;
+    width = 560 - margin.right - margin.left,
+    height = 400 - margin.top - margin.bottom;
+    //width = 960 - margin.right - margin.left,
+    //height = 800 - margin.top - margin.bottom;
     
 var i = 0,
     duration = 750,
@@ -12,7 +14,7 @@ var tree = d3.layout.tree()
 var diagonal = d3.svg.diagonal()
     .projection(function(d) { return [d.y, d.x]; });
 
-var svg = d3.select("body").append("svg")
+var svg = d3.select("#tree-diagram").append("svg")
     .attr("width", width + margin.right + margin.left)
     .attr("height", height + margin.top + margin.bottom)
   .append("g")
@@ -36,7 +38,7 @@ d3.json("static/json/drake.json", function(error, artist) {
   root.children.forEach(collapse);
 });
 
-d3.select(self.frameElement).style("height", "800px");
+//d3.select(self.frameElement).style("height", "800px");
 
 function update(source) {
 

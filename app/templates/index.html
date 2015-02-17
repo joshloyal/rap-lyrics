@@ -1,5 +1,9 @@
   <!DOCTYPE html>
 <meta charset="utf-8">
+<title>Dashboard</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+<link rel="stylesheet" href="./static/lib/css/keen-dashboards.css">
+
 <style>
 
 .node {
@@ -23,7 +27,53 @@
 }
 
 </style>
-<body>
+<body class="application">
+  
+  <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <div class="container-fluid">
+      <div class="navbar-header">
+        <a class="navbar-brand" href="./">Rap Lyrics Dashboard</a>
+      </div>
+    </div>
+  </div>
+  
+  <div class="container-fluid">
+    <div class="row">
+
+      <div class="col-sm-12">
+        <div class="chart-wrapper">
+          <div class="chart-title">
+          Artist's Tree-Diagram
+          </div>
+          <div class="chart-stage" id="tree-diagram">
+          </div>
+        </div>
+      </div>
+
+
+    </div>
+
+
+    <div class="row">
+
+      <div class="col-sm-12">
+        <div class="chart-wrapper">
+          <div class="chart-title">
+          Song Lyric's
+          </div>
+          <div class="chart-stage">
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <hr>
+
+    <p class="small text-muted">Built with &#9829; by <a href="https://keen.io">Keen IO</a></p>
+
+  </div>
+
 
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script src="./static/js/tree.js"></script>
