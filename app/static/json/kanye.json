@@ -1,0 +1,950 @@
+{
+  "name": "Kanye", 
+  "children": [
+    {
+      "name": "808s & Heartbreak", 
+      "children": [
+        {
+          "name": "Say You Will"
+        }, 
+        {
+          "name": "Welcome To Heartbreak"
+        }, 
+        {
+          "name": "Heartless"
+        }, 
+        {
+          "name": "Amazing"
+        }, 
+        {
+          "name": "Love Lockdown"
+        }, 
+        {
+          "name": "Paranoid"
+        }, 
+        {
+          "name": "RoboCop"
+        }, 
+        {
+          "name": "Street Lights"
+        }, 
+        {
+          "name": "Bad News"
+        }, 
+        {
+          "name": "See You In My Nightmares"
+        }, 
+        {
+          "name": "Coldest Winter"
+        }, 
+        {
+          "name": "Pinocchio Story"
+        }, 
+        {
+          "name": "808s & Heartbreak [Credits]"
+        }
+      ]
+    }, 
+    {
+      "name": "Can't Tell Me Nothing", 
+      "children": [
+        {
+          "name": "Dreaming Of Your Love"
+        }, 
+        {
+          "name": "Magnetic Power"
+        }, 
+        {
+          "name": "Porno (Interlude)"
+        }, 
+        {
+          "name": "Interviews (Interlude)"
+        }
+      ]
+    }, 
+    {
+      "name": "The Cleveland Show (Season 2)", 
+      "children": [
+        {
+          "name": "Be-Cleve in Yourself"
+        }
+      ]
+    }, 
+    {
+      "name": "The College Dropout", 
+      "children": [
+        {
+          "name": "Intro"
+        }, 
+        {
+          "name": "We Don't Care"
+        }, 
+        {
+          "name": "Graduation Day"
+        }, 
+        {
+          "name": "All Falls Down"
+        }, 
+        {
+          "name": "I'll Fly Away"
+        }, 
+        {
+          "name": "Spaceship"
+        }, 
+        {
+          "name": "Jesus Walks"
+        }, 
+        {
+          "name": "Never Let Me Down"
+        }, 
+        {
+          "name": "Get Em High"
+        }, 
+        {
+          "name": "Workout Plan"
+        }, 
+        {
+          "name": "The New Workout Plan"
+        }, 
+        {
+          "name": "Slow Jamz"
+        }, 
+        {
+          "name": "Breathe In Breathe Out"
+        }, 
+        {
+          "name": "School Spirit (Skit 1)"
+        }, 
+        {
+          "name": "School Spirit"
+        }, 
+        {
+          "name": "School Spirit (Skit 2)"
+        }, 
+        {
+          "name": "Lil' Jimmy (Skit)"
+        }, 
+        {
+          "name": "Two Words"
+        }, 
+        {
+          "name": "Through The Wire"
+        }, 
+        {
+          "name": "Family Business"
+        }
+      ]
+    }, 
+    {
+      "name": "Eyes Closed", 
+      "children": [
+        {
+          "name": "Eyes Closed Intro"
+        }, 
+        {
+          "name": "Never See Me Again"
+        }, 
+        {
+          "name": "Welcome to the World"
+        }, 
+        {
+          "name": "H\u00b7A\u00b7M"
+        }, 
+        {
+          "name": "That's My Bitch (Italian Version)"
+        }, 
+        {
+          "name": "Chain Heavy"
+        }, 
+        {
+          "name": "Christmas in Harlem"
+        }, 
+        {
+          "name": "Mama's Boyfriend"
+        }, 
+        {
+          "name": "Eyes Closed"
+        }, 
+        {
+          "name": "All of the Lights"
+        }, 
+        {
+          "name": "Blazin"
+        }, 
+        {
+          "name": "Pretty Girl Rock (Remix)"
+        }, 
+        {
+          "name": "You're My Type"
+        }, 
+        {
+          "name": "Never Lettin' Go (The Stalker Song)"
+        }, 
+        {
+          "name": "Good Ass Job"
+        }, 
+        {
+          "name": "Livin' In A Movie"
+        }, 
+        {
+          "name": "I'm A New Man (Pinocchio Story part 2) [live freestyle]"
+        }
+      ]
+    }, 
+    {
+      "name": "Freshmen Adjustment", 
+      "children": [
+        {
+          "name": "Intro (Freshman Adjustment)"
+        }, 
+        {
+          "name": "Doing Fine"
+        }, 
+        {
+          "name": "Self Conscious (A.K.A. Yeah)"
+        }, 
+        {
+          "name": "Gossip Files"
+        }, 
+        {
+          "name": "Wack Niggaz"
+        }, 
+        {
+          "name": "I Need To Know"
+        }, 
+        {
+          "name": "Out Of Your Mind"
+        }, 
+        {
+          "name": "Livin' In A Movie"
+        }, 
+        {
+          "name": "Drop Dead Gorgeous"
+        }, 
+        {
+          "name": "Wow"
+        }, 
+        {
+          "name": "Apologize"
+        }, 
+        {
+          "name": "Hey Mama"
+        }, 
+        {
+          "name": "The Good, The Bad, The Ugly"
+        }, 
+        {
+          "name": "Keep the Receipt"
+        }, 
+        {
+          "name": "Heavy Hitters"
+        }, 
+        {
+          "name": "My Way"
+        }, 
+        {
+          "name": "Home"
+        }, 
+        {
+          "name": "Electric Relaxation 2003"
+        }, 
+        {
+          "name": "All Falls Down (Original)"
+        }, 
+        {
+          "name": "Through The Wire Remix"
+        }
+      ]
+    }, 
+    {
+      "name": "Freshmen Adjustment Vol. 2", 
+      "children": [
+        {
+          "name": "Intro (Freshmen Adjustment Vol. 2)"
+        }, 
+        {
+          "name": "We Can't Tell"
+        }, 
+        {
+          "name": "Half Price"
+        }, 
+        {
+          "name": "A Million and One Freestyle"
+        }, 
+        {
+          "name": "Excuse Me Miss Again (Remix)"
+        }, 
+        {
+          "name": "Wouldn't You Like 2 Ryde"
+        }, 
+        {
+          "name": "On 10 in a Benz"
+        }, 
+        {
+          "name": "The Roc in Here"
+        }, 
+        {
+          "name": "Changing Lanes"
+        }, 
+        {
+          "name": "I Met Oprah"
+        }, 
+        {
+          "name": "Bonnie & Clyde Freestyle"
+        }, 
+        {
+          "name": "Last Night"
+        }, 
+        {
+          "name": "Wack Niggaz"
+        }, 
+        {
+          "name": "Neva Gon Stop Me"
+        }, 
+        {
+          "name": "Girls, Girls, Girls (Remix)"
+        }, 
+        {
+          "name": "'03 Till Infinity"
+        }, 
+        {
+          "name": "Better Than Yours"
+        }
+      ]
+    }, 
+    {
+      "name": "Freshmen Adjustment Vol. 3", 
+      "children": [
+        {
+          "name": "Jesus Walks (Remix)"
+        }, 
+        {
+          "name": "Hold On (Remix)"
+        }, 
+        {
+          "name": "Fly Away"
+        }, 
+        {
+          "name": "Where You At? (The Whole City Behind Us)"
+        }, 
+        {
+          "name": "What You Do to Me"
+        }, 
+        {
+          "name": "U Know"
+        }, 
+        {
+          "name": "Back Like That (Remix)"
+        }, 
+        {
+          "name": "Back to Basics"
+        }, 
+        {
+          "name": "You"
+        }, 
+        {
+          "name": "Take It As A Loss"
+        }, 
+        {
+          "name": "Get By (remix)"
+        }, 
+        {
+          "name": "Everything I Got"
+        }
+      ]
+    }, 
+    {
+      "name": "Get Well Soon...", 
+      "children": [
+        {
+          "name": "Funk Flex (Guess Who's Back Freestyle)"
+        }, 
+        {
+          "name": "Two Words"
+        }, 
+        {
+          "name": "Champions"
+        }, 
+        {
+          "name": "The Bounce"
+        }, 
+        {
+          "name": "Poppin' Tags"
+        }, 
+        {
+          "name": "A Million and One Freestyle"
+        }, 
+        {
+          "name": "'03 Bonnie & Clyde"
+        }, 
+        {
+          "name": "B R Right"
+        }, 
+        {
+          "name": "Brown Sugar (Fine)"
+        }, 
+        {
+          "name": "Good To You"
+        }, 
+        {
+          "name": "The Good, The Bad, The Ugly"
+        }, 
+        {
+          "name": "Dead or Alive"
+        }, 
+        {
+          "name": "Takeover Freestyle"
+        }, 
+        {
+          "name": "Got Nowhere"
+        }, 
+        {
+          "name": "Poppa Was a Playa"
+        }, 
+        {
+          "name": "Home"
+        }, 
+        {
+          "name": "Heaven"
+        }, 
+        {
+          "name": "In Cold Blood"
+        }, 
+        {
+          "name": "My Way"
+        }, 
+        {
+          "name": "You Made Me"
+        }
+      ]
+    }, 
+    {
+      "name": "G.O.O.D. Fridays", 
+      "children": [
+        {
+          "name": "Power (Remix)"
+        }, 
+        {
+          "name": "Runaway Love (Remix)"
+        }, 
+        {
+          "name": "GOOD Friday"
+        }, 
+        {
+          "name": "Lord Lord Lord"
+        }, 
+        {
+          "name": "So Appalled"
+        }, 
+        {
+          "name": "Christian Dior Denim Flow"
+        }, 
+        {
+          "name": "Don't Stop!"
+        }, 
+        {
+          "name": "Take One for the Team"
+        }, 
+        {
+          "name": "Don't Look Down"
+        }, 
+        {
+          "name": "The Joy"
+        }, 
+        {
+          "name": "Looking for Trouble"
+        }, 
+        {
+          "name": "Chain Heavy"
+        }, 
+        {
+          "name": "Christmas in Harlem"
+        }
+      ]
+    }, 
+    {
+      "name": "Graduation", 
+      "children": [
+        {
+          "name": "Good Morning"
+        }, 
+        {
+          "name": "Champion"
+        }, 
+        {
+          "name": "Stronger"
+        }, 
+        {
+          "name": "I Wonder"
+        }, 
+        {
+          "name": "Good Life"
+        }, 
+        {
+          "name": "Can't Tell Me Nothing"
+        }, 
+        {
+          "name": "Barry Bonds"
+        }, 
+        {
+          "name": "Drunk and Hot Girls"
+        }, 
+        {
+          "name": "Flashing Lights"
+        }, 
+        {
+          "name": "Everything I Am"
+        }, 
+        {
+          "name": "The Glory"
+        }, 
+        {
+          "name": "Homecoming"
+        }, 
+        {
+          "name": "Big Brother"
+        }, 
+        {
+          "name": "Good Night"
+        }, 
+        {
+          "name": "Bittersweet Poetry"
+        }, 
+        {
+          "name": "Graduation [Credits]"
+        }
+      ]
+    }, 
+    {
+      "name": "I'm Good", 
+      "children": [
+        {
+          "name": "Heavy Hitters"
+        }, 
+        {
+          "name": "Excuse Me Miss Again (Remix)"
+        }, 
+        {
+          "name": "Two Words"
+        }, 
+        {
+          "name": "Used to Love U"
+        }, 
+        {
+          "name": "Get By (remix)"
+        }, 
+        {
+          "name": "In Cold Blood (Remix)"
+        }, 
+        {
+          "name": "You're Not Ready"
+        }, 
+        {
+          "name": "Drop Dead Gorgeous"
+        }, 
+        {
+          "name": "More or Less"
+        }, 
+        {
+          "name": "Poppin' Tags (Remix)"
+        }, 
+        {
+          "name": "Badunkadunk"
+        }, 
+        {
+          "name": "Half Price"
+        }, 
+        {
+          "name": "Don't Mess With Me"
+        }, 
+        {
+          "name": "Electric Relaxation 2003"
+        }, 
+        {
+          "name": "Getting Out the Game"
+        }, 
+        {
+          "name": "Muzik"
+        }, 
+        {
+          "name": "Turn Out Your Lights (Freewest)"
+        }, 
+        {
+          "name": "Hear the Song"
+        }, 
+        {
+          "name": "Blueprint Complication"
+        }, 
+        {
+          "name": "Girls, Girls, Girls (Remix)"
+        }
+      ]
+    }, 
+    {
+      "name": "Kanye on Jimmy Kimmel 10/9/13", 
+      "children": [
+        {
+          "name": "Jimmy Kimmel Interview Pt. 1"
+        }, 
+        {
+          "name": "Jimmy Kimmel Interview Pt. 2"
+        }
+      ]
+    }, 
+    {
+      "name": "Kon the Louis Vuitton Don", 
+      "children": [
+        {
+          "name": "Better Than Yours"
+        }, 
+        {
+          "name": "Knock Knock Remix"
+        }, 
+        {
+          "name": "Wouldn't You Like 2 Ryde"
+        }, 
+        {
+          "name": "No More For Me"
+        }, 
+        {
+          "name": "Keep the Receipt"
+        }, 
+        {
+          "name": "Stand Up (Remix)"
+        }, 
+        {
+          "name": "'03 Till Infinity"
+        }, 
+        {
+          "name": "You"
+        }, 
+        {
+          "name": "Chase You Outta Here"
+        }
+      ]
+    }, 
+    {
+      "name": "Late Registration", 
+      "children": [
+        {
+          "name": "Wake Up Mr. West"
+        }, 
+        {
+          "name": "Heard 'Em Say"
+        }, 
+        {
+          "name": "Touch the Sky"
+        }, 
+        {
+          "name": "Gold Digger"
+        }, 
+        {
+          "name": "Skit #1"
+        }, 
+        {
+          "name": "Drive Slow"
+        }, 
+        {
+          "name": "My Way Home"
+        }, 
+        {
+          "name": "Crack Music"
+        }, 
+        {
+          "name": "Roses"
+        }, 
+        {
+          "name": "Bring Me Down"
+        }, 
+        {
+          "name": "Addiction"
+        }, 
+        {
+          "name": "Skit #2"
+        }, 
+        {
+          "name": "Diamonds From Sierra Leone (Remix)"
+        }, 
+        {
+          "name": "We Major"
+        }, 
+        {
+          "name": "Skit #3"
+        }, 
+        {
+          "name": "Hey Mama"
+        }, 
+        {
+          "name": "Celebration"
+        }, 
+        {
+          "name": "Skit #4"
+        }, 
+        {
+          "name": "Gone"
+        }, 
+        {
+          "name": "Diamonds from Sierra Leone"
+        }
+      ]
+    }, 
+    {
+      "name": "The Lost Tapes Mixtape", 
+      "children": [
+        {
+          "name": "Luv U Better Freestyle"
+        }, 
+        {
+          "name": "The Truth Freestyle"
+        }
+      ]
+    }, 
+    {
+      "name": "My Beautiful Dark Twisted Fantasy", 
+      "children": [
+        {
+          "name": "Dark Fantasy"
+        }, 
+        {
+          "name": "Gorgeous"
+        }, 
+        {
+          "name": "Power"
+        }, 
+        {
+          "name": "All of the Lights"
+        }, 
+        {
+          "name": "Monster"
+        }, 
+        {
+          "name": "So Appalled"
+        }, 
+        {
+          "name": "Devil in a New Dress"
+        }, 
+        {
+          "name": "Runaway"
+        }, 
+        {
+          "name": "Hell Of A Life"
+        }, 
+        {
+          "name": "Blame Game"
+        }, 
+        {
+          "name": "Lost In The World"
+        }, 
+        {
+          "name": "Who Will Survive in America"
+        }, 
+        {
+          "name": "See Me Now"
+        }, 
+        {
+          "name": "My Beautiful Dark Twisted Fantasy (Credits)"
+        }
+      ]
+    }, 
+    {
+      "name": "Rolling Stone's 100 Greatest Artists of All Time", 
+      "children": [
+        {
+          "name": "Tupac Shakur - Rolling Stone Entry"
+        }, 
+        {
+          "name": "Eminem - Rolling Stone Entry"
+        }, 
+        {
+          "name": "Jay-Z - Rolling Stone Entry"
+        }
+      ]
+    }, 
+    {
+      "name": "The Tonight Show with Conan O'Brien", 
+      "children": [
+        {
+          "name": "Celebrity Activist Rant"
+        }
+      ]
+    }, 
+    {
+      "name": "VH1 Storytellers", 
+      "children": [
+        {
+          "name": "See You In My Nightmares (Live From VH1 Storytellers)"
+        }, 
+        {
+          "name": "RoboCop (Live From VH1 Storytellers)"
+        }, 
+        {
+          "name": "Flashing Lights (Live From VH1 Storytellers)"
+        }, 
+        {
+          "name": "Amazing (Live From VH1 Storytellers)"
+        }, 
+        {
+          "name": "Touch The Sky (Live From VH1 Storytellers)"
+        }, 
+        {
+          "name": "Say You Will (Live From VH1 Storytellers)"
+        }, 
+        {
+          "name": "Good Life (Live From VH1 Storytellers)"
+        }, 
+        {
+          "name": "Heartless (Live From VH1 Storytellers)"
+        }, 
+        {
+          "name": "Love Lockdown (Live From VH1 Storytellers)"
+        }
+      ]
+    }, 
+    {
+      "name": "Visionary Streams of Consciousness", 
+      "children": [
+        {
+          "name": "Visionary Stream of Consciousness at Paparazzo [Sept. 27, 2013]"
+        }, 
+        {
+          "name": "Twitter Rant on Jimmy Kimmel"
+        }, 
+        {
+          "name": "Pusha T Listening Party Visionary Stream of Consciousness"
+        }, 
+        {
+          "name": "Barclays Visionary Stream of Consciousness"
+        }, 
+        {
+          "name": "Madison Square Garden Visionary Stream of Consciousness"
+        }, 
+        {
+          "name": "Tampa Visionary Stream of Consciousness 11/30/2013"
+        }, 
+        {
+          "name": "Visionary Stream of Consciousness on Taylor Swift and Racism"
+        }, 
+        {
+          "name": "Feburary 23, 2013 Rant in London"
+        }, 
+        {
+          "name": "Wireless Festival Visionary Stream of Consciousness"
+        }, 
+        {
+          "name": "Visionary Stream of Consciousness (Michael Jordan)"
+        }, 
+        {
+          "name": "Governors Ball Show Visionary Stream of Consciousness"
+        }, 
+        {
+          "name": "'Don't Talk.' Rant at Paparazzi"
+        }, 
+        {
+          "name": "Visionary Stream of Consciousness at Adult Swim Upfront"
+        }
+      ]
+    }, 
+    {
+      "name": "Watch the Throne", 
+      "children": [
+        {
+          "name": "No Church in the Wild"
+        }, 
+        {
+          "name": "Lift Off"
+        }, 
+        {
+          "name": "Niggas in Paris"
+        }, 
+        {
+          "name": "Otis"
+        }, 
+        {
+          "name": "Gotta Have It"
+        }, 
+        {
+          "name": "New Day"
+        }, 
+        {
+          "name": "That's My Bitch"
+        }, 
+        {
+          "name": "Welcome to the Jungle"
+        }, 
+        {
+          "name": "Who Gon Stop Me"
+        }, 
+        {
+          "name": "Murder to Excellence"
+        }, 
+        {
+          "name": "Made in America"
+        }, 
+        {
+          "name": "Why I Love You"
+        }, 
+        {
+          "name": "Illest Motherfucker Alive"
+        }, 
+        {
+          "name": "H\u00b7A\u00b7M"
+        }, 
+        {
+          "name": "Primetime"
+        }, 
+        {
+          "name": "The Joy"
+        }, 
+        {
+          "name": "Watch the Throne [Credits]"
+        }
+      ]
+    }, 
+    {
+      "name": "Yeezus", 
+      "children": [
+        {
+          "name": "On Sight"
+        }, 
+        {
+          "name": "Black Skinhead"
+        }, 
+        {
+          "name": "I Am a God"
+        }, 
+        {
+          "name": "New Slaves"
+        }, 
+        {
+          "name": "Hold My Liquor"
+        }, 
+        {
+          "name": "I'm In It"
+        }, 
+        {
+          "name": "Blood On The Leaves"
+        }, 
+        {
+          "name": "Guilt Trip"
+        }, 
+        {
+          "name": "Send It Up"
+        }, 
+        {
+          "name": "Bound 2"
+        }, 
+        {
+          "name": "Yeezus [Credits]"
+        }
+      ]
+    }, 
+    {
+      "name": "Zane Lowe BBC Radio Interview", 
+      "children": [
+        {
+          "name": "Zane Lowe BBC Radio Interview Part 1"
+        }
+      ]
+    }
+  ]
+}
