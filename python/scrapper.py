@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 from collections import namedtuple
 import json
 import cPickle as pickle
+import pymongo
 
 # Object for storing song data
 Song = namedtuple('Song', ['album', 'title', 'lyrics'])
@@ -77,6 +78,14 @@ class TreeNode(dict):
 
         return json_str
 
+class MongoDBPipeline(object):
+    """
+    Take a hint from scrapy and create an object to connect the scrapper
+    with our database
+    """
+    def __init__(self):
+        pass
+
 def create_artist_tree(artist, songs):
     # loop through songs once to build the first layer
     tree = TreeNode(artist)
@@ -88,7 +97,7 @@ def create_artist_tree(artist, songs):
     for song in songs:
         for node in tree.children:
             if song.album == node.name:
-                node.add_child({'name' : song.title}), 'lyrics' : song.lyrics})
+                node.add_child({'name' : song.title, 'lyrics' : song.lyrics})
     
     return tree
 
